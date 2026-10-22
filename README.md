@@ -13,17 +13,28 @@ Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and r
 ## What's in this build
 
 - **The world:** a city, plains, forest, coast, an island village and dungeons, with real-time seasons, weather, tides and moon phases.
-- **Combat:** real-time combat with dodging, statuses, weapon mastery and skills, and 40 creatures, some of which only come out in certain weather, at night or at low tide.
+- **Combat:** real-time combat with dodging, statuses, weapon mastery and skills, clear swing arcs, an aim marker for bows and glowing arrow trails.
+- **The bestiary:** 48 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
 - **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail.
 - **Your home:** a house and yard to decorate and paint, a workbench with plans, cabins, and a photo album.
 - **Your look:** outfits for every slot, dyes, and a sewing lesson.
+- **Symbol art:** make pictures from layered shapes (with a gamepad or a mouse) and share them in chat, on the bulletin board, in letters and in a frame on your wall.
+- **Online:** friends, the Crossroads Room, letters to far-away friends, leaderboards, and co-op that works even behind home routers.
 - **Little things to find:** returning rare creatures, mystery threads, mini-games (skating, kites, darts), footprints in the snow, and the Milky Way on dark nights.
-- **Isekai Studio:** the content editor the game itself is built with.
+- **Isekai Studio:** the content editor the game itself is built with, now with tabs, side-by-side pages, pop-out windows, an ability builder and creature tiers.
+
+## Playing online
+
+Online play is on. The game connects to the official server by itself: open **Esc → Friends & parties** to get your friend code, add friends by theirs, and meet in the Crossroads Room.
+
+- **Settings → Online** shows whether you're connected, and has a **Test connection** button.
+- If you can't connect, the game keeps working offline and tries again later.
+- You can point the game at a different server in Settings → Online; **Official server** puts it back.
 
 ## Known limits
 
-- **Online play is off.** Online features (the Crossroads Room, friends, online co-op) need a server that isn't running yet, so they'll say they can't connect.
 - **Placeholder art and sound.** Most art and all music and sound are placeholders.
+- **The official server is new.** Expect the odd restart while it settles in.
 
 ## Reporting bugs
 
