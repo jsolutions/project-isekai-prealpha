@@ -6,16 +6,17 @@ A cosy low-poly 3D action-life RPG for Windows. You're summoned into a round fan
 
 ## Download
 
-Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and run `Project Isekai/Project Isekai.exe`. The `README.md` and `docs/how-to-play.md` inside the zip explain the controls and your first day.
+Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and run `Project Isekai/Project Isekai.exe`. From Pre-alpha 3.2 on, the game tells you on the title screen when a new version is out and can update itself (**Update now**); Settings → Online turns the check off. The `README.md` and `docs/how-to-play.md` inside the zip explain the controls and your first day.
 
 **Requirements:** Windows 10 or 11 (64-bit), and a graphics card that supports Vulkan or DirectX 12. You need about 800 MB of disk space. Keyboard and mouse or a gamepad both work.
 
 ## What's in this build
 
-- **The world:** a city, plains, forest, coast, an island village and dungeons, with real-time seasons, weather, tides and moon phases.
+- **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and dungeons, with real-time seasons, weather, tides and moon phases.
 - **Combat:** real-time combat with dodging, statuses, weapon mastery and skills, clear swing arcs, an aim marker for bows and glowing arrow trails.
 - **The bestiary:** 48 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
-- **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail.
+- **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail. Talk to people to hand in quests and open their shops; weather boards round town show the week ahead.
+- **Your gear pack:** extra slots for weapons and armour and a pocket for 99 of every monster drop, upgradeable.
 - **Your home:** a house and yard to decorate and paint, a workbench with plans, cabins, and a photo album.
 - **Your look:** outfits for every slot, dyes, and a sewing lesson.
 - **Symbol art:** make pictures from layered shapes (with a gamepad or a mouse) and share them in chat, on the bulletin board, in letters and in a frame on your wall.
