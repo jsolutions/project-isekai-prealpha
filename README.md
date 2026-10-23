@@ -12,7 +12,7 @@ Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and r
 
 ## What's in this build
 
-- **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and dungeons, with real-time seasons, weather, tides and moon phases.
+- **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and dungeons, with real-time seasons, weather, tides and moon phases; clouds cast drifting shadows and sunbeams slant through the gaps.
 - **Combat:** real-time combat with dodging, statuses, weapon mastery and skills, clear swing arcs, an aim marker for bows and glowing arrow trails.
 - **The bestiary:** 48 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
 - **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail. Talk to people to hand in quests and open their shops; weather boards round town show the week ahead.
