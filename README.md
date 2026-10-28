@@ -12,9 +12,11 @@ Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and r
 
 ## What's in this build
 
-- **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and dungeons, with real-time seasons, weather, tides and moon phases; clouds cast drifting shadows and sunbeams slant through the gaps.
-- **Combat:** real-time combat with dodging, statuses, weapon mastery and skills, clear swing arcs, an aim marker for bows and glowing arrow trails.
-- **The bestiary:** 48 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
+- **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and four dungeons, with real-time seasons, weather, tides and moon phases; clouds cast drifting shadows and sunbeams slant through the gaps.
+- **The dungeons:** the Mossy Hollow (the King's Court and the Roots below it), the Glimmer Grotto, the Old Dig's catacombs and the Old Silver Mine, all on one standard: dark rooms lit by lamps, moss and crystals, levers and timed gates, traps, checkpoints, chests, a map, and a boss at the end. The Slime King's Waltz is a three-act dance: bounces to a beat, bits that charge down red lines and carom off each other, and a last slide you end in a corner.
+- **Combat:** real-time combat with dodging, statuses, weapon mastery, clear swing arcs, an aim marker for bows and glowing arrow trails, and the club, which turns a charge straight back. Your skills are a **constellation**: nine trees drawn as a star chart, each skill earning its own experience and growing along its branch.
+- **The realms:** settlements grow through stages as you spend and help; invest in shares, weather the farms' troubles, meet the seasonal traders and the Merchant Hero, and come back to greetings that tell you the news since you left.
+- **The bestiary:** 58 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
 - **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail. Talk to people to hand in quests and open their shops; weather boards round town show the week ahead.
 - **Your gear pack:** extra slots for weapons and armour and a pocket for 99 of every monster drop, upgradeable.
 - **Your home:** a house and yard to decorate and paint, a workbench with plans, cabins, and a photo album.
