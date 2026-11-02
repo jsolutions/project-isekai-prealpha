@@ -2,7 +2,7 @@
 
 A cosy low-poly 3D action-life RPG for Windows. You're summoned into a round fantasy city that runs on the real clock and seasons. Fight and explore, rise through the Adventurer's Guild, fish and catch bugs, farm and cook, decorate a house and garden, dress up, and make friends with the townsfolk. It comes with **Isekai Studio**, for making your own content without code.
 
-> **Pre-alpha:** expect bugs, some placeholder art (the buildings and a few creatures), and things that change between builds. Saves from one pre-alpha may not load in the next.
+> **Pre-alpha:** expect bugs and things that change between builds. Saves from one pre-alpha may not load in the next.
 
 ## Download
 
@@ -13,13 +13,14 @@ Get the latest zip from **[Releases](../../releases)**, unzip it anywhere, and r
 ## What's in this build
 
 - **The world:** a city, plains, forest, coast, an island village, Duskhollow (a hamlet under the forest canopy that keeps night hours) and four dungeons, with real-time seasons, weather, tides and moon phases; clouds cast drifting shadows and sunbeams slant through the gaps.
-- **The look (new in 6.0):** our own trees with season sets, ground cover, flowers and crops, the town's and the countryside's props, the twelve bodies on a new rig, and fifteen animated animals; wind in the foliage, the windmill and the banners; ducks, herons, butterflies, bats and an owl about by season and hour; our own music and sounds throughout; Colour vision and Warning patterns for the boss warnings, comfort settings (hold-or-toggle, captions with a direction arrow, high contrast), and a graphics preset picked for your card on first launch.
+- **The look (6.0 and 6.1):** everything in our own art: trees with season sets, ground cover, flowers and crops, the town's buildings (lit fanlights over the doors at night), the town's and the countryside's props, the twelve bodies on a new rig with hair that reads from every side, and every creature, from the bunny to Grandmother Clatterclaw in her house; wind in the foliage, the windmill and the banners; ducks, herons, butterflies, bats and an owl about by season and hour; our own music and sounds throughout; Colour vision and Warning patterns for the boss warnings, comfort settings (hold-or-toggle, captions with a direction arrow, high contrast), and a graphics preset picked for your card on first launch.
 - **The dungeons:** the Mossy Hollow (the King's Court and the Roots below it), the Glimmer Grotto, the Old Dig's catacombs and the Old Silver Mine, all on one standard: dark rooms lit by lamps, moss and crystals, levers and timed gates, traps, checkpoints, chests, a map, and a boss at the end. The Slime King's Waltz is a three-act dance: bounces to a beat, bits that charge down red lines and carom off each other, and a last slide you end in a corner. Grandmother Clatterclaw fights in a nest that floods the moment you step in: rocks rolling behind a red band, a tide that pushes and pulls with whirlpools either side of her, claw hooks that drag you in, crablings lobbed at you three at a time, and an old sluice whose surge knocks her flat.
 - **Combat:** real-time combat with dodging, statuses, weapon mastery, clear swing arcs, an aim marker for bows and glowing arrow trails, and the club, which turns a charge straight back. Your skills are a **constellation**: nine trees drawn as a star chart, each skill earning its own experience and growing along its branch.
 - **The realms:** settlements grow through stages as you spend and help; invest in shares, weather the farms' troubles, meet the seasonal traders and the Merchant Hero, and come back to greetings that tell you the news since you left.
 - **The bestiary:** 58 creatures, each with magic, rare and unique versions that look different (bigger, horned, maned, armoured) and fight differently. A unique turns up at most once a day.
 - **Life:** fishing, bug catching, farming, cooking, pets, a museum, jobs, festivals and mail. Talk to people to hand in quests and open their shops; weather boards round town show the week ahead.
-- **Your gear pack:** extra slots for weapons and armour and a pocket for 99 of every monster drop, upgradeable.
+- **Your gear pack:** extra slots for weapons and armour and a pocket for 99 of every monster drop, upgradeable. Quest items and keepsakes live in their own Key items tab and take no bag slots.
+- **The guild (new in 6.1):** a quest board that rewards variety (a quest nobody has taken in a while pays a premium), and a post office in the city for anyone's post.
 - **Your home:** a house and yard to decorate and paint, a workbench with plans, cabins, and a photo album.
 - **Your look:** outfits for every slot, dyes, and a sewing lesson.
 - **Symbol art:** make pictures from layered shapes (with a gamepad or a mouse) and share them in chat, on the bulletin board, in letters and in a frame on your wall.
@@ -37,7 +38,7 @@ Online play is on. The game connects to the official server by itself: open **Es
 
 ## Known limits
 
-- **Some placeholder art.** The buildings and a few coast and dungeon creatures still use the starter kits until 6.1; everything else, and all music and sound, is our own.
+- **The Crossroads Room** looks for company only in your own region until the server's 6.1 update goes out; the game works either way.
 - **The official server is new.** Expect the odd restart while it settles in.
 
 ## Reporting bugs
@@ -48,7 +49,7 @@ Please open an **[issue](../../issues)** saying what you were doing and what hap
 
 The game itself isn't open source. The art, sound and fonts bundled with it can be redistributed:
 
-- **Art and sound:** the starter art still used for the buildings and a few creatures is by [Kenney](https://kenney.nl), CC0. Our own code-made models, icons, music and sound are also CC0.
+- **Art and sound:** the game's models, icons, music and sound are our own, made in code, and CC0. The starter kits by [Kenney](https://kenney.nl), also CC0, still ship in the zip for Isekai Studio's asset library, though nothing in the game world uses them any more.
 - **Fonts:** the fonts are under the SIL Open Font License 1.1.
 
 The full licence texts are in `content/assets/<pack>/` inside the zip.
